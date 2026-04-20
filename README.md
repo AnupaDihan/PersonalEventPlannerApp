@@ -3,7 +3,7 @@
 ## Overview
 
 The Personal Event Planner App is an Android application developed for SIT305 Task 4.1P.
-It allows users to manage their daily events, appointments, and trips efficiently through a simple and user-friendly interface.
+It allows users to manage their daily events, appointments, and trips efficiently through a simple and user friendly interface.
 
 The app supports full event management with local data storage, ensuring all information is even after closing the app or restarting the device.
 
