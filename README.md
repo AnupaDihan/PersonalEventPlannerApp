@@ -5,7 +5,7 @@
 The Personal Event Planner App is an Android application developed for SIT305 Task 4.1P.
 It allows users to manage their daily events, appointments, and trips efficiently through a simple and user-friendly interface.
 
-The app supports full event management with local data storage, ensuring all information is محفوظ even after closing the app or restarting the device.
+The app supports full event management with local data storage, ensuring all information is even after closing the app or restarting the device.
 
 ## Features
 ### CRUD Operations
@@ -16,7 +16,7 @@ The app supports full event management with local data storage, ensuring all inf
 ### Data Persistence (Room Database)
 - Uses Room Persistence Library
 - Stores all event data locally
-- Data remains محفوظ after app restart
+- Data remains after app restart
 ### Navigation
 - Implemented using Jetpack Navigation Component
 - Uses Fragments instead of multiple activities
